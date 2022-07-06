@@ -1,0 +1,3 @@
+->run model within script
+->make algo for grouping and stitching
+->blending
